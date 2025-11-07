@@ -1,9 +1,0 @@
-# Python bytecode
-*.pyc
-
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# IDE files
-.vscode/
-.idea/
